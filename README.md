@@ -289,5 +289,5 @@ GPLv3 — see [LICENSE](LICENSE).
 ## Responsible Disclosure
 
 If you find a security issue or potential vulnerability, please contact me privately rather than opening a public issue.  
-You can reach me at: **<your-security-email-or-contact>**.
+You can reach me at: **aniiket2004@gmail.com**.
 ```
