@@ -1,0 +1,21 @@
+# AnonShare dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core protocol: PAKE-based secure channel + transit relay
+magic-wormhole>=0.17.0
+
+# End-to-end encryption
+PyNaCl>=1.5.0
+cryptography>=41.0.0
+
+# CLI framework
+click>=8.1.0
+
+# Tor integration
+PySocks>=1.7.1
+requests>=2.31.0
+stem>=1.8.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
